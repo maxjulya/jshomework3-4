@@ -1,0 +1,28 @@
+header {
+	padding-top: 40px;
+	text-align: center;
+	width: 650px;
+}
+
+p {
+	padding-left: 15px;
+}
+
+ul {
+	list-style: none;
+}
+article {
+	padding-top: 40px;
+}
+
+.btn-secondary {
+	background-color: #cfe2f3;
+	padding: .7rem 2.3rem;
+
+}
+
+footer {
+	text-align: center;
+	padding-top: 40px;
+}
+

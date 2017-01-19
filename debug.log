@@ -1,0 +1,17 @@
+[0111/181056:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)
+[0111/181056:ERROR:exception_snapshot_win.cc(87)] thread ID 3368 not found in process
+[0111/181056:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/181058:ERROR:exception_snapshot_win.cc(87)] thread ID 3932 not found in process
+[0111/181058:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/181100:ERROR:exception_snapshot_win.cc(87)] thread ID 2944 not found in process
+[0111/181100:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/181102:ERROR:exception_snapshot_win.cc(87)] thread ID 3944 not found in process
+[0111/181102:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/181104:ERROR:exception_snapshot_win.cc(87)] thread ID 2140 not found in process
+[0111/181104:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/181105:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)
+[0111/181105:ERROR:exception_snapshot_win.cc(87)] thread ID 2344 not found in process
+[0111/181105:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/181105:ERROR:process_reader_win.cc(142)] SuspendThread: Отказано в доступе. (0x5)
+[0111/181105:ERROR:exception_snapshot_win.cc(87)] thread ID 1504 not found in process
+[0111/181105:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
